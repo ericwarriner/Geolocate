@@ -11,5 +11,5 @@ As per licensing - [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](htt
 
 Special thanks to maxmind as this app would not be possible without their data. Also, if you found this app helpful in any way please consider purchasing one their commercial products for your enterprise.
 
-Notes regarding the Maxmind GeoLite2 database... "Latitude and Longitude results are not precise and should not be used
+Lastly, regarding the Maxmind GeoLite2 database in use... their documentation clearly states that: "Latitude and Longitude results are not precise and should not be used
 to identify a particular street address or household"
