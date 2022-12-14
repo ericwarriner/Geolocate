@@ -1,4 +1,4 @@
-<img src="./1024.png" alt="Geolocate" />
+<img src="./banner.png" alt="Geolocate" />
 
 IPv4 Geolocate
 ==========
