@@ -16,4 +16,4 @@ Special thanks to maxmind as this app would not be possible without their data. 
 Lastly, regarding the Maxmind GeoLite2 database in use... their documentation clearly states that: "Latitude and Longitude results are not precise and should not be used
 to identify a particular street address or household"
 
-Application is currently published in the Google Play App Store [IPv4 Geolocate] (https://play.google.com/store/apps/details?id=com.github.ericwarriner.geolocate)
+Application is currently published in the Google Play App Store [IPv4 Geolocate](https://play.google.com/store/apps/details?id=com.github.ericwarriner.geolocate)
