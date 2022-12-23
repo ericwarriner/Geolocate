@@ -1,8 +1,8 @@
 <img src="./store_images/banner.png" alt="Geolocate" />
 
-IPv4 Geolocate
+IP v4&v6 Geolocate
 ==========
-# A IPv4 Geolocation Tool
+# A IP v4&v6 Geolocation Tool
 
 A long overdue update to an application that I published over a decade ago found here:
 [GitHub](https://github.com/ericwarriner/ericonjava/tree/master/IpGeolocate)
