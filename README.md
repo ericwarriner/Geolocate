@@ -6,6 +6,8 @@ IP v4&v6 Geolocate
 
 This is a long overdue update to an application that I published on the google play store over a decade ago. 
 
+A reactjs version of this app may be found at https://ipgeolocation.app/
+
 This update was completed as an effort to learn the magic of the ✨<Magic>✨ [Flutter](https://flutter.dev/) framework and [Dart.js](https://dart.dev/) ✨</Magic> ✨.
 
 As per licensing - [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/)
