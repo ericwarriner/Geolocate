@@ -2,10 +2,9 @@
 
 IP v4&v6 Geolocate
 ==========
-[An Adroid based IP(Internet Protocol) v4 & v6 Geolocation Tool](https://github.com/ericwarriner/Geolocate)
+[An Android based IP(Internet Protocol) v4 & v6 Geolocation Tool](https://github.com/ericwarriner/Geolocate)
 
-This is a long overdue update to an application that I published on the google play store over a decade ago. Original source code found here:
-[GitHub](https://github.com/ericwarriner/ericonjava/tree/master/IpGeolocate)
+This is a long overdue update to an application that I published on the google play store over a decade ago. 
 
 This update was completed as an effort to learn the magic of the ✨<Magic>✨ [Flutter](https://flutter.dev/) framework and [Dart.js](https://dart.dev/) ✨</Magic> ✨.
 
