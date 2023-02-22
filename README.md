@@ -20,4 +20,5 @@ to identify a particular street address or household"
 
 Application is currently published in the Google Play App Store. Please download it here: [IPv4 Geolocate](https://play.google.com/store/apps/details?id=com.github.ericwarriner.geolocate)
 <a href='https://play.google.com/store/apps/details?id=com.github.ericwarriner.geolocate&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
+==========
 Google Play and the Google Play logo are trademarks of Google LLC.
